@@ -42,6 +42,6 @@ return array
 }
 
 function removeElementFromEndOfArray (array) {
-newArray = array.pop()
+newArray = array.slice(-1)
 return newArray
 }
