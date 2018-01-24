@@ -41,7 +41,7 @@ array.pop()
 return array
 }
 
-function removeElementFromEndOfArray(array) {
+function removeElementFromEndOfArray (array) {
 newArray = array.pop()
 return newArray
 }
